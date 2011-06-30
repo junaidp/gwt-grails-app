@@ -1,0 +1,2 @@
+serviceClass: gwtGrails.client.DataService
+path: 8226EA05885BDF52C16CAA7F8AF4E0BE.gwt.rpc

@@ -1,0 +1,2 @@
+# Module g3wt.Application
+# RPC service class, partial path of RPC policy file
