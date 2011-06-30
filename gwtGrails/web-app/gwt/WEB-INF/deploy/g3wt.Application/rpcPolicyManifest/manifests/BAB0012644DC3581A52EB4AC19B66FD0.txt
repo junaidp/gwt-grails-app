@@ -1,0 +1,2 @@
+serviceClass: g3wt.client.DataService
+path: A59C1F6942F64E1E166480254FE6E7FE.gwt.rpc
