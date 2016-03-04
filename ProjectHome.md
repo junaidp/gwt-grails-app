@@ -1,0 +1,1 @@
+Grails app with GWT integration
